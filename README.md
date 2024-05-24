@@ -1,6 +1,14 @@
 # Simulador Universitario - Centro Universitario de Ciencias Exactas e Ingenierias.
 
-¡Bienvenido al simulador virtual de CUCEI! Este proyecto te permite explorar nuestro campus desde la comodidad de tu dispositivo Android.
+¡Bienvenido al Simulador Universitario CUCEI! Sumérgete en una experiencia virtual inmersiva del Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI) de la Universidad de Guadalajara. Este proyecto, desarrollado con Godot Engine, te invita a recorrer los emblemáticos edificios, descubrir rincones ocultos y familiarizarte con la vibrante atmósfera de nuestro campus, todo desde la comodidad de tu dispositivo Android.
+
+## ¿Por Qué Explorar el CUCEI Virtualmente?
+### Nuevos Estudiantes
+Si estás a punto de comenzar tu aventura académica en el CUCEI, este simulador es tu guía ideal para conocer el terreno antes de llegar. ¡Despídete de la desorientación y siéntete como en casa desde el primer día!
+### Estudiantes Actuales
+¿Crees que conoces cada rincón del CUCEI? ¡Piénsalo de nuevo! Descubre áreas inexploradas, atajos secretos y puntos de interés que quizás hayas pasado por alto.
+### Visitantes y Curiosos
+¿Te interesa la ingeniería, la ciencia o simplemente quieres conocer uno de los centros universitarios más importantes de México? ¡Este simulador te abre las puertas del CUCEI para que lo explores a tu propio ritmo!
 
 ## Características Principales
 
@@ -22,7 +30,7 @@
 
 ## Contribuciones
 
-¡Las contribuciones son bienvenidas! Si deseas agregar más edificios, detalles o características, ¡no dudes en hacer un fork del repositorio y enviar tus pull requests!
+¡Quiero que este simulador crezca contigo! Si tienes ideas para nuevos edificios, puntos de interés, características o mejoras, ¡contribuye! Haz un fork del repositorio y envía tus pull requests. ¡Tu aporte es valioso!
 
 ## Agradecimientos
 
