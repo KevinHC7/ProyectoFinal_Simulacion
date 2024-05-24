@@ -23,6 +23,8 @@ Si estás a punto de comenzar tu aventura académica en el CUCEI, este simulador
 1. **Descarga:** Obtén el archivo APK desde la sección de [Andriod](https://github.com/KevinHC7/ProyectoFinal_Simulacion/tree/main/Android).
 2. **Instala:** Transfiere el archivo APK a tu dispositivo Android e instálalo.
 3. **¡Explora y disfruta!**
+4.  Alternativamente, se puede jugar en la computadora. Solamente tienes que descargar el proyecto y ejecutarlo en Godot 4.2
+    **Controles**: WASD - Movimiento, Space Bar - Salto, Shift - Correr, Mouse - Control de cámara.
 
 ## Requisitos del sistema
 
