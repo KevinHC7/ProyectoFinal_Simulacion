@@ -1,0 +1,12 @@
+Timer
+Label
+Control
+CanvasGroup
+CollisionShape3D
+AudioStreamPlayer3D
+TextEdit
+Node3D
+Button
+VBoxContainer
+Camera3D
+StaticBody3D
